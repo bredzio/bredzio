@@ -1,5 +1,26 @@
 ### Hi there 👋
+```js
+const bredzio = {
+ pronouns: "he" | "him",
+ code: [Java,Javascript, HTML, CSS],
+ openToWork: true,
+ openToLearn: true,
+}
+```
 
+### I'm a Full Stack Developer from Buenos Aires, Argentina.
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bredzio)](https://github.com/anuraghazra/github-readme-stats)
+
+- 👉 I’m working on the final project for [Egg's bootcamp](https://eggeducacion.com/es-AR/)!
+- ✔️ I've just finished my individual project of course's Web Developer of [CoderHouse](https://www.coderhouse.com/)! 
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Facts: I love meeting friends, drinking mate and ride bike.
 <!--
 **bredzio/bredzio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
