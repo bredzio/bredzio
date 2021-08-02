@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there, I'm Bruno Redzio 👋
 ```js
 const bredzio = {
  pronouns: "he" | "him",
@@ -7,20 +7,23 @@ const bredzio = {
  openToLearn: true,
 }
 ```
-
 ### I'm a Full Stack Developer from Buenos Aires, Argentina.
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bredzio)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👉 I’m working on the final project for [Egg's bootcamp](https://eggeducacion.com/es-AR/)!
 - ✔️ I've just finished my individual project of course's Web Developer of [CoderHouse](https://www.coderhouse.com/)! 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📖 I’m currently learning everything and more.
+- 👯 I’m looking to collaborate and connect with other content creators.
 - ⚡ Facts: I love meeting friends, drinking mate and ride bike.
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bredzio)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bredzio)](https://github.com/anuraghazra/github-readme-stats)
+
+### Languages and Tools:
+
+
+
+
 <!--
 **bredzio/bredzio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
