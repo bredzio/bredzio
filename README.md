@@ -10,7 +10,7 @@ const bredzio = {
 ### I'm a Full Stack Developer from Buenos Aires, Argentina.
 
 - 👉 I’m working on the final project for [Egg's bootcamp](https://eggeducacion.com/es-AR/)!
-- ✔️ I've just finished my individual project of course's Web Developer of [CoderHouse](https://www.coderhouse.com/)! 
+- ✔️ I've just finished my individual [project](https://bredzio.github.io/sushidistintobt/) of course's Web Developer of [CoderHouse](https://www.coderhouse.com/)! 
 - 📖 I’m currently learning everything and more.
 - 👯 I’m looking to collaborate and connect with other content creators.
 - ⚡ Facts: I love meeting friends, drinking mate and ride bike.
