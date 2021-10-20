@@ -7,18 +7,6 @@ const bredzio = {
  openToLearn: true,
 }
 ```
-### I'm a Full Stack Developer from Buenos Aires, Argentina.
-
-- 👉 I’m working on the final project for [Egg's bootcamp](https://eggeducacion.com/es-AR/)!
-- ✔️ I've just finished my individual [project](https://bredzio.github.io/sushidistintobt/) of course's Web Developer of [CoderHouse](https://www.coderhouse.com/)! 
-- 📖 I’m currently learning everything and more.
-- 👯 I’m looking to collaborate and connect with other content creators.
-- ⚡ Facts: I love meeting friends, drinking mate and ride bike.
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bredzio)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bredzio)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Languages and Tools:
 <p align="left"><a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"  width="40px"height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"  width="40px"/></a>
@@ -31,3 +19,17 @@ const bredzio = {
 <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"/></a> 
 <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"  width="40px"/></a> 
 <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40"/></a></p>
+
+### I'm a Full Stack Developer from Buenos Aires, Argentina.
+
+- 👉 I’m working on the final project for [Egg's bootcamp](https://eggeducacion.com/es-AR/)!
+- ✔️ I've just finished my individual [project](https://bredzio.github.io/sushidistintobt/) of course's Web Developer of [CoderHouse](https://www.coderhouse.com/)! 
+- 📖 I’m currently learning everything and more.
+- 👯 I’m looking to collaborate and connect with other content creators.
+- ⚡ Facts: I love meeting friends, drinking mate and ride bike.
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bredzio)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bredzio)](https://github.com/anuraghazra/github-readme-stats)
+
+
