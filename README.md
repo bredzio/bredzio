@@ -1,14 +1,17 @@
-# Hi there, I'm Bruno Redzio 👋
-```js
-const bredzio = {
- pronouns: "he" | "him",
- code: [Java,Javascript, HTML, CSS],
- frameworks:[Spring],
- library:[React Js],
- openToWork: true,
- openToLearn: true,
-}
-```
+### Hola Mundo 🌎, soy Bruno! 👋
+
+<p align="center">
+ <img height=300px src="https://user-images.githubusercontent.com/85000317/153300520-e7bfd557-e800-45bb-9969-006a828eb458.gif" alt="banner" />
+</p>
+
+## Sobre mi
+<p>Soy Licenciado en Administración y trabaje 11 años en Retail de informática.<br/>
+Mi camino por las Ciencias Económicas y la Tecnología me llevó a interesarme por la Estadística, la Investigación y la Programación.<br/>
+En Abril de 2021, obtuve una beca para realizar el Bootcamp en <a href="https://eggeducacion.com/es-AR/">Egg Educación</a> donde desarrollé habilidades tecnicas para un desarrollo web funcional, responsivo y adaptable.<br/> 
+Al mismo tiempo realicé la carrera de Desarrollo Front End en el Instituto <a href="https://www.coderhouse.com/">Coder House</a>.
+
+Actualmente soy Desarrollador Full Stack en búsqueda de crecer en la industria tecnológica, generando soluciones y afrontando nuevos desafíos.
+</p>
 
 ### I'm a Full Stack Developer from Buenos Aires, Argentina.
 
@@ -20,7 +23,9 @@ const bredzio = {
 - 👯 I’m looking to collaborate and connect with other content creators.
 - ⚡ Facts: I love meeting friends, drinking mate and ride bike.
 
-### Languages and Tools:
+## Actualmente manejo:
+<p>React • Redux • JavaScript • Typescript • Material UI •  Styled Components • HTML •  CSS • PostreSQL • Express • NodeJS • Sequelize </p>
+
 <p align="left"><a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/javascript.svg"  width="40px" height="40"/></a>
 <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
@@ -35,9 +40,16 @@ const bredzio = {
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"  width="40px" height="40"/></p>
 <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/mysql/mysql.png" width="40px" height="40"/>
 
+## Puedes encontrarme en 🔍:
+- [LinkedIn](https://www.linkedin.com/in/brunoredzio/) 💼
+ 
+##  Mis Projectos :
+<h2 align="center"><a href="https://github.com/bredzio/red-patitas"> Huellapp </a></h2>
+<h5 align="center"> Java • Spring • Html • Css • JavaScript • MySQL • AWS</h5>
+ 
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/85000317/153296205-f6c7d2ae-2833-4cfd-9efe-56990abd6aa6.gif" alt="project preview" />
+</p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bredzio)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bredzio)](https://github.com/anuraghazra/github-readme-stats)
 
 
