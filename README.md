@@ -51,7 +51,7 @@ Actualmente soy Desarrollador Full Stack en búsqueda de crecer en la industria 
   <img src="https://user-images.githubusercontent.com/85000317/153296205-f6c7d2ae-2833-4cfd-9efe-56990abd6aa6.gif" alt="project preview" />
 </p>
  
-<h2 align="center"><a href="https://github.com/bredzio/red-patitas"> Sushi Distinto </a></h2>
+<h2 align="center"><a href="https://github.com/bredzio/sushidistinto-app"> Sushi Distinto </a></h2>
 <h5 align="center"> React.js • Styled Component • CSS</h5>
  
  <p align="center">
