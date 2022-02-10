@@ -56,3 +56,8 @@ Me considero un Desarrollador Full Stack con ganas de seguir creciendo en la ind
 <h2 align="center"><a href="https://github.com/bredzio/OT110-Server"> Somos Más (API REST)</a></h2>
 <h5 align="center"> Java • Spring • Junit • Mockito • Swagger • MySQL • AWS</h5>
 
+<h2 align="center"><a href="https://github.com/bredzio/Challenge_Backend_DisneyAPI"> Personajes de Disney (API REST)</a></h2>
+<h5 align="center"> Java • Spring • Junit • Mockito • Swagger • MySQL </h5>
+
+
+
