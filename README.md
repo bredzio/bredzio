@@ -7,7 +7,7 @@
 ## Sobre mi
 <p>Soy de Buenos Aires (Argentina), Licenciado en Administración y trabajé más de 11 años en Retails de Informática.<br/>
 Mi camino por las Ciencias Económicas y la Tecnología me llevó a interesarme por la Estadística, la Investigación y la Programación.<br/>
-En Abril de 2021, obtuve una beca para realizar el Bootcamp en <a href="https://eggeducacion.com/es-AR/">Egg Educación</a> donde desarrollé habilidades técnicas para un desarrollo web funcional, responsivo y adaptable.<br/> 
+En Abril de 2021, obtuve una beca para realizar el Bootcamp en <a href="https://eggeducacion.com/es-AR/">Egg Educación</a> donde adquirí habilidades técnicas para un desarrollo web funcional, responsivo y adaptable.<br/> 
 También realicé la carrera de Desarrollo Front End en el Instituto <a href="https://www.coderhouse.com/">Coder House</a>.
 
 Actualmente soy Desarrollador Full Stack con ganas de seguir creciendo en la industria tecnológica, generando soluciones y afrontando nuevos desafíos.
