@@ -38,7 +38,7 @@ Me considero un Desarrollador Full Stack con ganas de seguir creciendo en la ind
 ## Puedes encontrarme en 🔍:
 - [LinkedIn](https://www.linkedin.com/in/brunoredzio/) 💼
  
-##  Mis Projectos :
+##  Mis Proyectos :
 <h2 align="center"><a href="https://github.com/bredzio/red-patitas"> Huellapp </a></h2>
 <h5 align="center"> Java • Spring • Html • Css • JavaScript • MySQL • AWS</h5>
  
