@@ -47,7 +47,7 @@ Me considero un Desarrollador Full Stack con ganas de seguir creciendo en la ind
 </p>
  
 <h2 align="center"><a href="https://github.com/bredzio/sushidistinto-app"> Sushi Distinto </a></h2>
-<h5 align="center"> React.js • Styled Component • CSS</h5>
+<h5 align="center"> React.js • Styled Component • CSS • Firebase </h5>
  
  <p align="center">
   <img src="https://user-images.githubusercontent.com/85000317/153306858-d49a33c9-9187-488d-84c8-cd7d0771174c.gif" alt="project preview" />
