@@ -14,7 +14,7 @@ Me considero un Desarrollador Full Stack con ganas de seguir creciendo en la ind
 </p>
 
 ## Actualmente manejo:
-<p>Java • JavaScript • Spring • React.js • Bootstrap •  Styled Components • HTML •  CSS • MySQL • Hibernate • Maven • Thymeleaf </p>
+<p>Java • JavaScript • TypeScript • Angular • Spring • React.js • Bootstrap •  Styled Components • HTML •  CSS • MySQL • Hibernate • Maven • Thymeleaf </p>
 
 <div diplay="flex">
 <img width="8%" alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
